@@ -40,7 +40,8 @@ namespace OrderApi.Application.Services
             // Call the products api here using http client. 
             // Redirect this call to the Api Gateway since product api will not respond to the outsiders
             // because of ListenToApiGatewayOnly middleware. 
-            var getUser = await _httpClient.GetAsync($"api/products/{userId}");
+            //var getUser = await _httpClient.GetAsync($"api/authentication/{userId}");
+            var getUser = await _httpClient.GetAsync($"http://localhost:5000/api/Authentication/{userId}");
             if (!getUser.IsSuccessStatusCode)
                 return null;
 
