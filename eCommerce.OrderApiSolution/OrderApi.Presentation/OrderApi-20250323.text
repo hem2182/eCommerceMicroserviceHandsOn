@@ -1,0 +1,48 @@
+2025-03-23 17:34:52.164 +05:30 [WRN] Invalid object name 'Orders'.
+2025-03-23 17:34:52.220 +05:30 [INF] Invalid object name 'Orders'.
+2025-03-23 17:34:52.489 +05:30 [WRN] Error Occurred while creating order.
+2025-03-23 17:34:52.494 +05:30 [INF] Error Occurred while creating order.
+2025-03-23 17:36:43.811 +05:30 [WRN] Invalid object name 'Orders'.
+2025-03-23 17:36:43.860 +05:30 [INF] Invalid object name 'Orders'.
+2025-03-23 17:36:44.081 +05:30 [WRN] Error Occurred while creating order.
+2025-03-23 17:36:44.090 +05:30 [INF] Error Occurred while creating order.
+2025-03-23 17:43:05.774 +05:30 [WRN] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:43:05.827 +05:30 [INF] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:43:44.026 +05:30 [WRN] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:43:44.030 +05:30 [INF] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:44:24.813 +05:30 [WRN] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:44:24.832 +05:30 [INF] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:44:40.237 +05:30 [WRN] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:44:40.241 +05:30 [INF] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:48:04.378 +05:30 [WRN] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:04.382 +05:30 [INF] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:07.091 +05:30 [WRN] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:07.094 +05:30 [INF] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:09.611 +05:30 [WRN] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:09.614 +05:30 [INF] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:12.582 +05:30 [WRN] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:12.587 +05:30 [INF] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:18.713 +05:30 [WRN] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:18.716 +05:30 [INF] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:21.367 +05:30 [WRN] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:21.370 +05:30 [INF] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:23.886 +05:30 [WRN] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:23.888 +05:30 [INF] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:26.876 +05:30 [WRN] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:48:26.881 +05:30 [INF] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:10.031 +05:30 [WRN] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:10.034 +05:30 [INF] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:12.548 +05:30 [WRN] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:12.551 +05:30 [INF] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:15.082 +05:30 [WRN] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:15.086 +05:30 [INF] OnRetry, AttemptNumber: 2 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:17.915 +05:30 [WRN] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:17.919 +05:30 [INF] The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:49:55.982 +05:30 [WRN] No connection could be made because the target machine actively refused it. (localhost:5001)
+2025-03-23 17:49:56.023 +05:30 [INF] No connection could be made because the target machine actively refused it. (localhost:5001)
+2025-03-23 17:54:19.745 +05:30 [WRN] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:54:19.821 +05:30 [INF] OnRetry, AttemptNumber: 0 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:54:22.498 +05:30 [WRN] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:54:22.506 +05:30 [INF] OnRetry, AttemptNumber: 1 Outcomme: The request was canceled due to the configured HttpClient.Timeout of 2 seconds elapsing.
+2025-03-23 17:56:22.153 +05:30 [WRN] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-03-23 17:56:22.186 +05:30 [INF] The instance of entity type 'Order' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
